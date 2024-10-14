@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\FinanceTracker.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\FinanceTracker.dir/objects.a @CMakeFiles\FinanceTracker.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\FinanceTracker.dir/objects.a -Wl,--no-whole-archive -o FinanceTracker.exe -Wl,--out-implib,libFinanceTracker.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\FinanceTracker.dir\linkLibs.rsp

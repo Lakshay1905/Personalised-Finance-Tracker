@@ -1,0 +1,38 @@
+[
+{
+  "directory": "E:/Personalised-Finance-Tracker/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/FinanceTracker.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\FinanceTracker.dir\\src\\main.cpp.obj -c E:\\Personalised-Finance-Tracker\\src\\main.cpp",
+  "file": "E:/Personalised-Finance-Tracker/src/main.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/Personalised-Finance-Tracker/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/FinanceTracker.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\FinanceTracker.dir\\src\\LinkedList.cpp.obj -c E:\\Personalised-Finance-Tracker\\src\\LinkedList.cpp",
+  "file": "E:/Personalised-Finance-Tracker/src/LinkedList.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/LinkedList.cpp.obj"
+},
+{
+  "directory": "E:/Personalised-Finance-Tracker/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/FinanceTracker.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\FinanceTracker.dir\\src\\Transaction.cpp.obj -c E:\\Personalised-Finance-Tracker\\src\\Transaction.cpp",
+  "file": "E:/Personalised-Finance-Tracker/src/Transaction.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/Transaction.cpp.obj"
+},
+{
+  "directory": "E:/Personalised-Finance-Tracker/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/FinanceTracker.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\FinanceTracker.dir\\src\\BST.cpp.obj -c E:\\Personalised-Finance-Tracker\\src\\BST.cpp",
+  "file": "E:/Personalised-Finance-Tracker/src/BST.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/BST.cpp.obj"
+},
+{
+  "directory": "E:/Personalised-Finance-Tracker/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/FinanceTracker.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\FinanceTracker.dir\\src\\FinanceTracker.cpp.obj -c E:\\Personalised-Finance-Tracker\\src\\FinanceTracker.cpp",
+  "file": "E:/Personalised-Finance-Tracker/src/FinanceTracker.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/FinanceTracker.cpp.obj"
+},
+{
+  "directory": "E:/Personalised-Finance-Tracker/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/FinanceTracker.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\FinanceTracker.dir\\src\\Account.cpp.obj -c E:\\Personalised-Finance-Tracker\\src\\Account.cpp",
+  "file": "E:/Personalised-Finance-Tracker/src/Account.cpp",
+  "output": "CMakeFiles/FinanceTracker.dir/src/Account.cpp.obj"
+}
+]
